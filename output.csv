@@ -1,0 +1,11 @@
+NSE,BSE,Nifty,sensex,banknifty,stocks,trading,RBIPolicy
+NSE,stocks,Nifty,banknifty,sensex,investing
+Nifty,NiftyBank,sensex,stockmarkets,StocksToWatch,stocks
+Nifty,sensex,StockMarket,StocksInFocus,StocksToWatch,stocks
+Nifty,sensex,StockMarket,StocksToWatch,StocksToBuy,stocks
+Nifty,sensex,stockmarkets,StocksInFocus,stockstowatch,stocks
+balrampurchini,gain,trading,stocks,StockMarket,green,sensex,Nifty
+sensex,stocks,Nifty
+sgxnifty,Nifty,sensex,StockMarket,StocksInFocus,stocks
+sgxnifty,Nifty,sensex,StockMarket,StocksToWatch,stocks
+stocks,StockMarket,WallStreet,bolsa,BolsaMx,Nifty,sensex,optionstrading
